@@ -1,4 +1,4 @@
 function GetFileName (fileName){
     return fileName.split('.').pop();
 }
-console.log('dantri.com', GetFileName('dantri.com'));
+console.log('anh.img', GetFileName('anh.img'));
